@@ -1,4 +1,4 @@
-<p style="align: center">
+<p style="align: center; width: 100%">
     <img src="graphics/logo.png" alt="Netbat logo" style="width: 15em; height: auto;">
 </p>
 <h1 style="align: center">Netbat</h1>
