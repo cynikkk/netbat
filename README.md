@@ -1,5 +1,5 @@
 <p>
-    <img src="graphics/logo.png" alt="Netbat logo" width="100%">
+    <img src="graphics/logo.png" alt="Netbat logo" style="width: 10em; height: auto;">
 </p>
 <h1 style="align: center">Netbat</h1>
 <p style="align: center">Netbat is a tool greatly inspired by netcat, made in Python.<p>
